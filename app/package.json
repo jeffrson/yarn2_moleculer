@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "moleculer-lib": "../lib"
+  },
+  "scripts": {
+    "start": "node index",
+    "v2init": "yarn set version 2"
+  }
+}

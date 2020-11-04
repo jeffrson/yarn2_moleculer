@@ -1,0 +1,10 @@
+{
+  "name": "moleculer-lib",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "moleculer": "^0.14.11",
+    "nats": "^1.4.12"
+  }
+}
